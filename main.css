@@ -24,7 +24,8 @@
 }
 
 h2 {
-  font-family: "Josefin Sans", sans-serif !important;
+  font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
   text-align: center;
   font-size: 20px;
   font-weight: lighter;
@@ -155,7 +156,8 @@ a:hover {
   }
 
  h2 {
-    font-family: "Josefin Sans", sans-serif !important;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
     text-align: center;
     font-size: 35px;
     font-weight: lighter;
@@ -283,7 +285,8 @@ a:hover {
   }
 
   h2 {
-    font-family: "Josefin Sans", sans-serif !important;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
     text-align: center;
     font-size: 25px;
     font-weight: lighter;
@@ -435,10 +438,11 @@ a:hover {
     border-width: 1px;
   }
   h2 {
-    font-family: "Josefin Sans", sans-serif !important;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
     text-align: center;
     font-size: 18px;
-    font-weight: bold;
+    font-weight: lighter;
   }
   .white {
     background-color: white;
@@ -567,10 +571,11 @@ a:hover {
     border-width: 1px;
   }
   h2 {
-    font-family: "Josefin Sans", sans-serif !important;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
     text-align: center;
     font-size: 15px;
-    font-weight: bold;
+    font-weight: lighter;
   }
   .white {
     background-color: white;
